@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "glc"
+name = "goatlang"
 version = "0.0.1"
 description = "A language for goated people with no purpose."
 readme = "README.md"

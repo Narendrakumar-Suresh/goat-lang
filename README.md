@@ -22,9 +22,7 @@ It’s designed for learning about compilers, transpilers, and language design w
 Clone the repo and install it locally in **editable** mode:
 
 ```bash
-git clone https://github.com/<your-username>/glc.git
-cd glc
-pip install -e .
+pip install goatlang==0.0.1
 ```
 
 This installs the `glc` command into your environment.

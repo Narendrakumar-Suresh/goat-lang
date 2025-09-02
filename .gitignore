@@ -1,2 +1,6 @@
 .ruff_cache/
 __pycache__/
+password.txt
+goatlang.egg-info
+dist/
+build/
