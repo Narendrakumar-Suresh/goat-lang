@@ -128,6 +128,7 @@ glc/
 * No standard library (beyond `print`)
 
 ---
+Do you have some issues with the language put them here: https://github.com/Narendrakumar-Suresh/goat-lang/issues
 
 ## 📜 License
 
