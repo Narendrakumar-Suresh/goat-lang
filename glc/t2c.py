@@ -1,4 +1,4 @@
-from parser import *
+from glc.parser import *
 
 
 class ASTtoC:

@@ -1,4 +1,4 @@
-from lexer import TokenType, Token
+from glc.lexer import TokenType, Token
 
 
 # -------------------- AST Nodes --------------------
